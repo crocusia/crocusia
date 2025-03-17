@@ -1,4 +1,43 @@
-## Hi there 👋
+[![Crocusia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crocusia&show_icons=true&theme=light)](https://github.com/crocusia)
+
+## **🛠 Skill**
+
+### **Language**
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FAB70C?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+### **DataBase**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### **Web Skill**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white">
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+</p>
+
+### **Graphic & Parallel Programing**
+<p align="left">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
+</p>
+
+
+## **📚 Project**
+- 정리 중
+
+## **💼 Experience**
+
+#### **2021.06 ~ 2025.01**
+**CGVR@KNU**<br>
+
+
 
 <!--
 **crocusia/crocusia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
