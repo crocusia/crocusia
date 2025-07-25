@@ -52,6 +52,9 @@
 #### **2025.02 ~ 2025.07** **`내일배움캠프 Spring 6기`**<br>
 #### **2021.06 ~ 2025.01** **`CGVR@KNU`**<br>
 
+## **TIL**
+[<img width="435" height="116" alt="image" src="https://github.com/user-attachments/assets/8e52ed4c-de2e-49aa-b19d-48ac5abf2981" />](https://devhippo.tistory.com/)
+
 <!--
 **crocusia/crocusia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
