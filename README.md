@@ -41,7 +41,7 @@
 🔗[nullnullTicket](https://github.com/pokerbearkr/nullnullTicket) <br>
 
 - **`지오메트리 특징 강화를 위한 메시 필터링에 세일리언시 통합`** : 한국컴퓨터정보학회 2025 동계학술대회<br>
-🔗[[High-BoostMeshFiltering_apply_saliency](https://github.com/crocusia/High-Boost_Mesh_Filtering_with_Saliency) <br>
+🔗[High-BoostMeshFiltering_apply_saliency](https://github.com/crocusia/High-Boost_Mesh_Filtering_with_Saliency) <br>
 
 - **`안정적인 발산 제약 이동최소자승법을 이용한 연기의  난류 생성 및 이류`** : 졸업작품, 한국컴퓨터정보학회 2024 동계학술대회<br>
 🔗[CFD_SMOKE2D_DIVMLS_GPU](https://github.com/crocusia/CFD_SMOKE2D_DIVMLS_GPU) <br>
