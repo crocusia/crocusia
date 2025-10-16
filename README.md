@@ -1,7 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crocusia&layout=compact&theme=merko&bg_color=ffffff)
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=crocusia)](https://solved.ac/crocusia)
-<br>
 
 ## **🛠 Skill**
 
