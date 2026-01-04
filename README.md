@@ -1,6 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crocusia&layout=compact&theme=merko&bg_color=ffffff)
-<br>
-
 ## **🛠 Skill**
 
 ### **Language**
@@ -53,8 +50,12 @@
 
 
 ## **💼 Experience**
+#### **2025.10 ~ 2025.12** **`항해99 10기`** <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartaclub.kr/hanghae99/plus/completion/badge_red.svg" />
+</a>
 
 #### **2025.02 ~ 2025.07** **`내일배움캠프 Spring 6기`**<br>
+
 #### **2021.06 ~ 2025.01** **`CGVR@KNU`**<br>
 
 ## **TIL**
